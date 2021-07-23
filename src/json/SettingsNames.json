@@ -1,0 +1,332 @@
+[
+  {
+    "name" : "RU",
+    "titles" : [
+      {
+        "name" : "Запас топлива",
+        "settings" : [
+          {
+            "name" : "Запас топлива",
+            "min" : 5,
+            "max" : 105,
+            "id" : 0
+          }
+        ]
+      },
+      {
+        "name" : "Аэродинамика",
+        "settings" : [
+          {
+            "name" : "Передние крылья",
+            "min" : 1,
+            "max" : 11,
+            "id" : 1
+          },
+          {
+            "name" : "Задние крылья",
+            "min" : 1,
+            "max" : 11,
+            "id" : 2
+          }
+        ]
+      },
+      {
+        "name" : "Трансмиссия",
+        "settings" : [
+          {
+            "name" : "На ускорение",
+            "min" : 50,
+            "max" : 100,
+            "id" : 3
+          },
+          {
+            "name" : "На торможение",
+            "min" : 50,
+            "max" : 100,
+            "id" : 4
+          }
+        ]
+      },
+      {
+        "name" : "Геометрия подвески",
+        "settings" : [
+          {
+            "name" : "Передний развал",
+            "min" : -3.50,
+            "max" : -2.50,
+            "id" : 5
+          },
+          {
+            "name" : "Задний развал",
+            "min" : -2.00,
+            "max" : -1.00,
+            "id" : 6
+          },
+          {
+            "name" : "Р-С передних колес",
+            "min" : 0.05,
+            "max" : 0.15,
+            "id" : 7
+          },
+          {
+            "name" : "Р-С задних колес",
+            "min" : 0.20,
+            "max" : 0.50,
+            "id" : 8
+          }
+        ]
+      },
+      {
+        "name" : "Подвеска",
+        "settings" : [
+          {
+            "name" : "Передняя подвеска",
+            "min" : 1,
+            "max" : 11,
+            "id" : 9
+          },
+          {
+            "name" : "Задняя подвеска",
+            "min" : 1,
+            "max" : 11,
+            "id" : 10
+          },
+          {
+            "name" : "Передний стаб.",
+            "min" : 1,
+            "max" : 11,
+            "id" : 11
+          },
+          {
+            "name" : "Задний стаб.",
+            "min" : 1,
+            "max" : 11,
+            "id" : 12
+          },
+          {
+            "name" : "Передний просвет",
+            "min" : 1,
+            "max" : 11,
+            "id" : 13
+          },
+          {
+            "name" : "Задний просвет",
+            "min" : 1,
+            "max" : 11,
+            "id" : 14
+          }
+        ]
+      },
+      {
+        "name" : "Тормоза",
+        "settings" : [
+          {
+            "name" : "Давление",
+            "min" : 50,
+            "max" : 100,
+            "id" : 15
+          },
+          {
+            "name" : "Передняя балансировка",
+            "min" : 70,
+            "max" : 50,
+            "id" : 16
+          }
+        ]
+      },
+      {
+        "name" : "Шины",
+        "settings" : [
+          {
+            "name" : "Передние",
+            "min" : 21,
+            "max" : 25,
+            "id" : 17
+          },
+          {
+            "name" : "Задние",
+            "min" : 19.5,
+            "max" : 23.5,
+            "id" : 18
+          }
+        ]
+      },
+      {
+        "name" : "Распределение веса",
+        "settings" : [
+          {
+            "name" : "Балласт",
+            "min" : 1,
+            "max" : 11,
+            "id" : 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "EN",
+    "titles" : [
+      {
+        "name" : "Fuel Load",
+        "settings" : [
+          {
+            "name" : "Fuel Load",
+            "min" : 5,
+            "max" : 105,
+            "id" : 0
+          }
+        ]
+      },
+      {
+        "name" : "Aerodynamics",
+        "settings" : [
+          {
+            "name" : "Front Wing",
+            "min" : 1,
+            "max" : 11,
+            "id" : 1
+          },
+          {
+            "name" : "Rear Wing",
+            "min" : 1,
+            "max" : 11,
+            "id" : 2
+          }
+        ]
+      },
+      {
+        "name" : "Transmission",
+        "settings" : [
+          {
+            "name" : "On Throttle",
+            "min" : 50,
+            "max" : 100,
+            "id" : 3
+          },
+          {
+            "name" : "Off Throttle",
+            "min" : 50,
+            "max" : 100,
+            "id" : 4
+          }
+        ]
+      },
+      {
+        "name" : "Suspension Geometry",
+        "settings" : [
+          {
+            "name" : "Front Camber",
+            "min" : -3.50,
+            "max" : -2.50,
+            "id" : 5
+          },
+          {
+            "name" : "Rear Camber",
+            "min" : -2.00,
+            "max" : -1.00,
+            "id" : 6
+          },
+          {
+            "name" : "Front Toe",
+            "min" : 0.05,
+            "max" : 0.15,
+            "id" : 7
+          },
+          {
+            "name" : "Rear Toe",
+            "min" : 0.20,
+            "max" : 0.50,
+            "id" : 8
+          }
+        ]
+      },
+      {
+        "name" : "Suspension",
+        "settings" : [
+          {
+            "name" : "Front Suspension",
+            "min" : 1,
+            "max" : 11,
+            "id" : 9
+          },
+          {
+            "name" : "Rear Suspension",
+            "min" : 1,
+            "max" : 11,
+            "id" : 10
+          },
+          {
+            "name" : "Front A-R Bar",
+            "min" : 1,
+            "max" : 11,
+            "id" : 11
+          },
+          {
+            "name" : "Rear A-R Bar",
+            "min" : 1,
+            "max" : 11,
+            "id" : 12
+          },
+          {
+            "name" : "Front Ride Height",
+            "min" : 1,
+            "max" : 11,
+            "id" : 13
+          },
+          {
+            "name" : "Rear Ride Height",
+            "min" : 1,
+            "max" : 11,
+            "id" : 14
+          }
+        ]
+      },
+      {
+        "name" : "Breaks",
+        "settings" : [
+          {
+            "name" : "Pressure",
+            "min" : 50,
+            "max" : 100,
+            "id" : 15
+          },
+          {
+            "name" : "Front Break Bias",
+            "min" : 70,
+            "max" : 50,
+            "id" : 16
+          }
+        ]
+      },
+      {
+        "name" : "Tyres",
+        "settings" : [
+          {
+            "name" : "Front",
+            "min" : 21,
+            "max" : 25,
+            "id" : 17
+          },
+          {
+            "name" : "Rear",
+            "min" : 19.5,
+            "max" : 23.5,
+            "id" : 18
+          }
+        ]
+      },
+      {
+        "name" : "Weight Distribution",
+        "settings" : [
+          {
+            "name" : "Ballast",
+            "min" : 1,
+            "max" : 11,
+            "id" : 19
+          }
+        ]
+      }
+    ]
+  }
+]

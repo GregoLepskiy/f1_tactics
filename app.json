@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "music-app",
-    "slug": "music-app",
-    "version": "1.0.0",
+    "name": "F1 Tactics",
+    "slug": "f1-tactics",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#006F62"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,8 +22,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#006F62"
+      },
+      "package": "com.bubenfuy.f1tactics"
     },
     "web": {
       "favicon": "./assets/favicon.png"

@@ -1,0 +1,107 @@
+[
+    {
+        "name" : "AustralianGP",
+        "id" : "1",
+        "select" : true
+    },
+    {
+        "name" : "BahrainGP",
+        "id" : "2",
+        "select" : false
+    },
+    {
+        "name" : "ChineseGP",
+        "id" : "3",
+        "select" : false
+    },
+    {
+        "name" : "AzerbaijanGP",
+        "id" : "4",
+        "select" : false
+    },
+    {
+        "name" : "SpanishGP",
+        "id" : "5",
+        "select" : false
+    },
+    {
+        "name" : "MonacoGP",
+        "id" : "6",
+        "select" : false
+    },
+    {
+        "name" : "CanadianGP",
+        "id" : "7",
+        "select" : false
+    },
+    {
+        "name" : "FrenchGP",
+        "id" : "8",
+        "select" : false
+    },
+    {
+        "name" : "AustrianGP",
+        "id" : "9",
+        "select" : false
+    },
+    {
+        "name" : "BritishGP",
+        "id" : "10",
+        "select" : false
+    },
+    {
+        "name" : "GermanGP",
+        "id" : "11",
+        "select" : false
+    },
+    {
+        "name" : "HungarianGP",
+        "id" : "12",
+        "select" : false
+    },
+    {
+        "name" : "BelgianGP",
+        "id" : "13",
+        "select" : false
+    },
+    {
+        "name" : "ItalianGP",
+        "id" : "14",
+        "select" : false
+    },
+    {
+        "name" : "SingaporeGP",
+        "id" : "15",
+        "select" : false
+    },
+    {
+        "name" : "RussianGP",
+        "id" : "16",
+        "select" : false
+    },
+    {
+        "name" : "JapaneseGP",
+        "id" : "17",
+        "select" : false
+    },
+    {
+        "name" : "UnitedStatesGP",
+        "id" : "18",
+        "select" : false
+    },
+    {
+        "name" : "MexicanGP",
+        "id" : "19",
+        "select" : false
+    },
+    {
+        "name" : "BrazilGP",
+        "id" : "20",
+        "select" : false
+    },
+    {
+        "name" : "AbuDhabiGP",
+        "id" : "21",
+        "select" : false
+    }
+]

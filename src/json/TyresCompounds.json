@@ -1,0 +1,38 @@
+[
+  {
+    "id" : 0,
+    "name" : "HYPERSOFT"
+  },
+  {
+    "id" : 1,
+    "name" : "ULTRASOFT"
+  },
+  {
+    "id" : 2,
+    "name" : "SUPERSOFT"
+  },
+  {
+    "id" : 3,
+    "name" : "SOFT"
+  },
+  {
+    "id" : 4,
+    "name" : "MEDIUM"
+  },
+  {
+    "id" : 5,
+    "name" : "HARD"
+  },
+  {
+    "id" : 6,
+    "name" : "SUPERHARD"
+  },
+  {
+    "id" : 7,
+    "name" : "INTERMEDIATE"
+  },
+  {
+    "id" : 8,
+    "name" : "WET"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Ferrari",
+    "firstColor" : "#C00000",
+    "secondColor" : "#FFF200"
+  },
+  {
+    "name": "Mercedes",
+    "firstColor": "#00D2BE",
+    "secondColor" : "#000000"
+  },
+  {
+    "name": "Red Bull",
+    "firstColor": "#00327D",
+    "secondColor" : "#EA1C2D"
+  },
+  {
+    "name": "McLaren",
+    "firstColor": "#FF8700",
+    "secondColor" : "#0153FA"
+  },
+  {
+    "name": "Racing Point",
+    "firstColor": "#F596C8",
+    "secondColor" : "#E5126E"
+  },
+  {
+    "name": "Renault",
+    "firstColor": "#FFF500",
+    "secondColor" : "#000000"
+  },
+  {
+    "name": "Toro Rosso",
+    "firstColor": "#0032FF",
+    "secondColor" : "#ED1846"
+  },
+  {
+    "name": "Sauber",
+    "firstColor": "#FFFFFF",
+    "secondColor" : "#9C2135"
+  },
+  {
+    "name": "Haas",
+    "firstColor": "#FFFFFF",
+    "secondColor" : "#ED1A3B"
+  },
+  {
+    "name": "Williams",
+    "firstColor": "#0082FA",
+    "secondColor" : "#FFFFFF"
+  }
+]
